@@ -1,0 +1,1232 @@
+[{
+  "_id": {
+    "$oid": "65553de4158a4f866fd69781"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "altura": 180,
+  "peso": 75,
+  "edad": 25,
+  "documentoIdentidad": "ABC123456",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69782"
+  },
+  "nombre": "Carlos",
+  "apellido": "Gómez",
+  "altura": 175,
+  "peso": 70,
+  "edad": 24,
+  "documentoIdentidad": "BCD123457",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69783"
+  },
+  "nombre": "Daniel",
+  "apellido": "Martínez",
+  "altura": 165,
+  "peso": 60,
+  "edad": 26,
+  "documentoIdentidad": "CDE123458",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69784"
+  },
+  "nombre": "Luis",
+  "apellido": "Diaz",
+  "altura": 180,
+  "peso": 78,
+  "edad": 30,
+  "documentoIdentidad": "ASD098765",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69785"
+  },
+  "nombre": "Javier",
+  "apellido": "Lopez",
+  "altura": 150,
+  "peso": 50,
+  "edad": 20,
+  "documentoIdentidad": "QWE123459",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69786"
+  },
+  "nombre": "Gabriel",
+  "apellido": "Moreno",
+  "altura": 178,
+  "peso": 70,
+  "edad": 25,
+  "documentoIdentidad": "RTY123478",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69787"
+  },
+  "nombre": "Fabio",
+  "apellido": "Marin",
+  "altura": 190,
+  "peso": 80,
+  "edad": 29,
+  "documentoIdentidad": "UIO123678",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69788"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Aparicio",
+  "altura": 170,
+  "peso": 69,
+  "edad": 24,
+  "documentoIdentidad": "PAS123567",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd69789"
+  },
+  "nombre": "Diego",
+  "apellido": "Gutierrez",
+  "altura": 165,
+  "peso": 60,
+  "edad": 26,
+  "documentoIdentidad": "CDE123458",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd6978a"
+  },
+  "nombre": "Maicol",
+  "apellido": "Reyes",
+  "altura": 150,
+  "peso": 60,
+  "edad": 26,
+  "documentoIdentidad": "DFG098458",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "655642a2158a4f866fd6978b"
+  },
+  "nombre": "Jamer",
+  "apellido": "Diaz",
+  "altura": 180,
+  "peso": 83,
+  "edad": 28,
+  "documentoIdentidad": "CDE124450",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd6978c"
+  },
+  "nombre": "Sof",
+  "apellido": "Gomez",
+  "altura": 175,
+  "peso": 65,
+  "edad": 22,
+  "documentoIdentidad": "ZXC123401",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd6978d"
+  },
+  "nombre": "Miguel",
+  "apellido": "Martinez",
+  "altura": 165,
+  "peso": 62,
+  "edad": 27,
+  "documentoIdentidad": "VBN123402",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd6978e"
+  },
+  "nombre": "Luciano",
+  "apellido": "Diaz",
+  "altura": 180,
+  "peso": 74,
+  "edad": 29,
+  "documentoIdentidad": "FGH098701",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd6978f"
+  },
+  "nombre": "Alejandro",
+  "apellido": "Lopez",
+  "altura": 150,
+  "peso": 55,
+  "edad": 21,
+  "documentoIdentidad": "JKL123403",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd69790"
+  },
+  "nombre": "Carl",
+  "apellido": "Moreno",
+  "altura": 178,
+  "peso": 68,
+  "edad": 24,
+  "documentoIdentidad": "UIO123404",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd69791"
+  },
+  "nombre": "Fernando",
+  "apellido": "Marin",
+  "altura": 190,
+  "peso": 82,
+  "edad": 31,
+  "documentoIdentidad": "ASD123405",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd69792"
+  },
+  "nombre": "Roberto",
+  "apellido": "Aparicio",
+  "altura": 170,
+  "peso": 66,
+  "edad": 23,
+  "documentoIdentidad": "QWE123406",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd69793"
+  },
+  "nombre": "Dionicio",
+  "apellido": "Gutierrez",
+  "altura": 165,
+  "peso": 61,
+  "edad": 28,
+  "documentoIdentidad": "TYU123407",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd69794"
+  },
+  "nombre": "Marcos",
+  "apellido": "Reyes",
+  "altura": 150,
+  "peso": 59,
+  "edad": 25,
+  "documentoIdentidad": "GHJ098702",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564ca0158a4f866fd69795"
+  },
+  "nombre": "Esteban",
+  "apellido": "Diaz",
+  "altura": 180,
+  "peso": 80,
+  "edad": 27,
+  "documentoIdentidad": "BNM124408",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564dcf158a4f866fd69796"
+  },
+  "nombre": "Juan",
+  "apellido": "Paez",
+  "altura": 180,
+  "peso": 75,
+  "edad": 25,
+  "documentoIdentidad": "BNM345689",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd69797"
+  },
+  "nombre": "Sebastian",
+  "apellido": "Rodriguez",
+  "altura": 175,
+  "peso": 68,
+  "edad": 23,
+  "documentoIdentidad": "ZXC123411",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd69798"
+  },
+  "nombre": "Andres",
+  "apellido": "Fernandez",
+  "altura": 165,
+  "peso": 64,
+  "edad": 28,
+  "documentoIdentidad": "VBN123422",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd69799"
+  },
+  "nombre": "Luciano",
+  "apellido": "Ramirez",
+  "altura": 180,
+  "peso": 76,
+  "edad": 30,
+  "documentoIdentidad": "FGH098711",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd6979a"
+  },
+  "nombre": "Alejandro",
+  "apellido": "Sanchez",
+  "altura": 150,
+  "peso": 57,
+  "edad": 22,
+  "documentoIdentidad": "JKL123413",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd6979b"
+  },
+  "nombre": "Carlos",
+  "apellido": "Torres",
+  "altura": 178,
+  "peso": 71,
+  "edad": 26,
+  "documentoIdentidad": "UIO123414",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd6979c"
+  },
+  "nombre": "Fernando",
+  "apellido": "Mora",
+  "altura": 190,
+  "peso": 85,
+  "edad": 32,
+  "documentoIdentidad": "ASD123415",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd6979d"
+  },
+  "nombre": "Roberto",
+  "apellido": "Cruz",
+  "altura": 170,
+  "peso": 67,
+  "edad": 24,
+  "documentoIdentidad": "QWE123416",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd6979e"
+  },
+  "nombre": "Dionicio",
+  "apellido": "Vega",
+  "altura": 165,
+  "peso": 63,
+  "edad": 29,
+  "documentoIdentidad": "TYU123417",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd6979f"
+  },
+  "nombre": "Marcos",
+  "apellido": "Ortiz",
+  "altura": 150,
+  "peso": 61,
+  "edad": 27,
+  "documentoIdentidad": "GHJ098712",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd697a0"
+  },
+  "nombre": "Esteban",
+  "apellido": "García",
+  "altura": 180,
+  "peso": 82,
+  "edad": 28,
+  "documentoIdentidad": "BNM124418",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65564f04158a4f866fd697a1"
+  },
+  "nombre": "Esteban",
+  "apellido": "Navarro",
+  "altura": 180,
+  "peso": 81,
+  "edad": 27,
+  "documentoIdentidad": "PLO1029348",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a2"
+  },
+  "nombre": "Liam",
+  "apellido": "Smith",
+  "altura": 178,
+  "peso": 72,
+  "edad": 24,
+  "documentoIdentidad": "XCV123421",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a3"
+  },
+  "nombre": "Noah",
+  "apellido": "Johnson",
+  "altura": 167,
+  "peso": 65,
+  "edad": 27,
+  "documentoIdentidad": "BNM123432",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a4"
+  },
+  "nombre": "Oliver",
+  "apellido": "Williams",
+  "altura": 182,
+  "peso": 77,
+  "edad": 29,
+  "documentoIdentidad": "LKJ098721",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a5"
+  },
+  "nombre": "Elijah",
+  "apellido": "Brown",
+  "altura": 152,
+  "peso": 58,
+  "edad": 22,
+  "documentoIdentidad": "POI123423",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a6"
+  },
+  "nombre": "William",
+  "apellido": "Jones",
+  "altura": 180,
+  "peso": 70,
+  "edad": 26,
+  "documentoIdentidad": "YUI123424",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a7"
+  },
+  "nombre": "James",
+  "apellido": "Garcia",
+  "altura": 192,
+  "peso": 84,
+  "edad": 31,
+  "documentoIdentidad": "HJK123425",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a8"
+  },
+  "nombre": "Benjamin",
+  "apellido": "Miller",
+  "altura": 169,
+  "peso": 66,
+  "edad": 23,
+  "documentoIdentidad": "NMZ123426",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697a9"
+  },
+  "nombre": "Lucas",
+  "apellido": "Davis",
+  "altura": 164,
+  "peso": 63,
+  "edad": 28,
+  "documentoIdentidad": "TYR123427",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697aa"
+  },
+  "nombre": "Henry",
+  "apellido": "Martinez",
+  "altura": 155,
+  "peso": 60,
+  "edad": 25,
+  "documentoIdentidad": "GFD098722",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697ab"
+  },
+  "nombre": "Alexander",
+  "apellido": "Rodriguez",
+  "altura": 183,
+  "peso": 82,
+  "edad": 28,
+  "documentoIdentidad": "SED124428",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565048158a4f866fd697ac"
+  },
+  "nombre": "Jackson",
+  "apellido": "Wilson",
+  "altura": 175,
+  "peso": 79,
+  "edad": 27,
+  "documentoIdentidad": "UMN1029349",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697ad"
+  },
+  "nombre": "Ethan",
+  "apellido": "Taylor",
+  "altura": 177,
+  "peso": 73,
+  "edad": 24,
+  "documentoIdentidad": "ASD123431",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697ae"
+  },
+  "nombre": "Mason",
+  "apellido": "Anderson",
+  "altura": 168,
+  "peso": 66,
+  "edad": 28,
+  "documentoIdentidad": "DFG123442",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697af"
+  },
+  "nombre": "Logan",
+  "apellido": "Harris",
+  "altura": 181,
+  "peso": 78,
+  "edad": 30,
+  "documentoIdentidad": "GHI098731",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b0"
+  },
+  "nombre": "Aiden",
+  "apellido": "Clark",
+  "altura": 153,
+  "peso": 59,
+  "edad": 21,
+  "documentoIdentidad": "JKL123433",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b1"
+  },
+  "nombre": "Michael",
+  "apellido": "Lewis",
+  "altura": 179,
+  "peso": 71,
+  "edad": 25,
+  "documentoIdentidad": "ZXC123434",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b2"
+  },
+  "nombre": "Jacob",
+  "apellido": "Lee",
+  "altura": 193,
+  "peso": 86,
+  "edad": 32,
+  "documentoIdentidad": "QWE123435",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b3"
+  },
+  "nombre": "Matthew",
+  "apellido": "Walker",
+  "altura": 170,
+  "peso": 68,
+  "edad": 23,
+  "documentoIdentidad": "ERT123436",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b4"
+  },
+  "nombre": "Samuel",
+  "apellido": "Hall",
+  "altura": 166,
+  "peso": 64,
+  "edad": 27,
+  "documentoIdentidad": "UIO123437",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b5"
+  },
+  "nombre": "David",
+  "apellido": "Allen",
+  "altura": 156,
+  "peso": 61,
+  "edad": 26,
+  "documentoIdentidad": "PAS098732",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b6"
+  },
+  "nombre": "Joseph",
+  "apellido": "Young",
+  "altura": 184,
+  "peso": 83,
+  "edad": 29,
+  "documentoIdentidad": "IOP124438",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556516a158a4f866fd697b7"
+  },
+  "nombre": "Gabriel",
+  "apellido": "Hernandez",
+  "altura": 176,
+  "peso": 80,
+  "edad": 28,
+  "documentoIdentidad": "FGH1029350",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697b8"
+  },
+  "nombre": "Isaac",
+  "apellido": "Morris",
+  "altura": 176,
+  "peso": 74,
+  "edad": 23,
+  "documentoIdentidad": "QAZ123441",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697b9"
+  },
+  "nombre": "Carter",
+  "apellido": "Thompson",
+  "altura": 169,
+  "peso": 67,
+  "edad": 28,
+  "documentoIdentidad": "WSX123452",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697ba"
+  },
+  "nombre": "Julian",
+  "apellido": "White",
+  "altura": 182,
+  "peso": 79,
+  "edad": 31,
+  "documentoIdentidad": "EDC098741",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697bb"
+  },
+  "nombre": "Lucas",
+  "apellido": "Scott",
+  "altura": 154,
+  "peso": 60,
+  "edad": 22,
+  "documentoIdentidad": "RFV123443",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697bc"
+  },
+  "nombre": "Owen",
+  "apellido": "Evans",
+  "altura": 180,
+  "peso": 72,
+  "edad": 26,
+  "documentoIdentidad": "TGB123444",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697bd"
+  },
+  "nombre": "Wyatt",
+  "apellido": "King",
+  "altura": 194,
+  "peso": 88,
+  "edad": 33,
+  "documentoIdentidad": "YHN123445",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697be"
+  },
+  "nombre": "Dylan",
+  "apellido": "Wright",
+  "altura": 171,
+  "peso": 69,
+  "edad": 24,
+  "documentoIdentidad": "UJM123446",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697bf"
+  },
+  "nombre": "Nathan",
+  "apellido": "Mitchell",
+  "altura": 167,
+  "peso": 65,
+  "edad": 29,
+  "documentoIdentidad": "IKO123447",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697c0"
+  },
+  "nombre": "Ryan",
+  "apellido": "Perez",
+  "altura": 157,
+  "peso": 62,
+  "edad": 27,
+  "documentoIdentidad": "OLP098742",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697c1"
+  },
+  "nombre": "Leo",
+  "apellido": "Anderson",
+  "altura": 185,
+  "peso": 85,
+  "edad": 30,
+  "documentoIdentidad": "PLO124448",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6556522f158a4f866fd697c2"
+  },
+  "nombre": "Jack",
+  "apellido": "Murphy",
+  "altura": 177,
+  "peso": 81,
+  "edad": 28,
+  "documentoIdentidad": "IUY1029351",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c3"
+  },
+  "nombre": "Max",
+  "apellido": "Hamilton",
+  "altura": 175,
+  "peso": 75,
+  "edad": 23,
+  "documentoIdentidad": "ZXV123451",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c4"
+  },
+  "nombre": "Ethan",
+  "apellido": "Roberts",
+  "altura": 168,
+  "peso": 68,
+  "edad": 29,
+  "documentoIdentidad": "BNC123462",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c5"
+  },
+  "nombre": "Oliver",
+  "apellido": "Thompson",
+  "altura": 183,
+  "peso": 80,
+  "edad": 32,
+  "documentoIdentidad": "GHJ098751",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c6"
+  },
+  "nombre": "Liam",
+  "apellido": "Johnson",
+  "altura": 155,
+  "peso": 61,
+  "edad": 21,
+  "documentoIdentidad": "KLM123453",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c7"
+  },
+  "nombre": "Noah",
+  "apellido": "Williams",
+  "altura": 181,
+  "peso": 73,
+  "edad": 27,
+  "documentoIdentidad": "YUI123454",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c8"
+  },
+  "nombre": "James",
+  "apellido": "Davis",
+  "altura": 195,
+  "peso": 90,
+  "edad": 34,
+  "documentoIdentidad": "HGF123455",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697c9"
+  },
+  "nombre": "Lucas",
+  "apellido": "Miller",
+  "altura": 172,
+  "peso": 70,
+  "edad": 24,
+  "documentoIdentidad": "JUY123456",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697ca"
+  },
+  "nombre": "Mason",
+  "apellido": "Wilson",
+  "altura": 166,
+  "peso": 66,
+  "edad": 28,
+  "documentoIdentidad": "IKL123457",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697cb"
+  },
+  "nombre": "Elijah",
+  "apellido": "Martinez",
+  "altura": 158,
+  "peso": 63,
+  "edad": 26,
+  "documentoIdentidad": "POL098752",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697cc"
+  },
+  "nombre": "Logan",
+  "apellido": "Anderson",
+  "altura": 186,
+  "peso": 87,
+  "edad": 31,
+  "documentoIdentidad": "PIO124458",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65565335158a4f866fd697cd"
+  },
+  "nombre": "Alexander",
+  "apellido": "Hernandez",
+  "altura": 178,
+  "peso": 82,
+  "edad": 29,
+  "documentoIdentidad": "IUY1029352",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d1"
+  },
+  "nombre": "Ethan",
+  "apellido": "Howard",
+  "altura": 156,
+  "peso": 63,
+  "edad": 22,
+  "documentoIdentidad": "OPQ147804",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d2"
+  },
+  "nombre": "Liam",
+  "apellido": "Bailey",
+  "altura": 180,
+  "peso": 73,
+  "edad": 26,
+  "documentoIdentidad": "RST258805",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d3"
+  },
+  "nombre": "Mason",
+  "apellido": "Clark",
+  "altura": 191,
+  "peso": 86,
+  "edad": 31,
+  "documentoIdentidad": "UVW804806",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d4"
+  },
+  "nombre": "Noah",
+  "apellido": "Mitchell",
+  "altura": 170,
+  "peso": 68,
+  "edad": 24,
+  "documentoIdentidad": "XYZ159807",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d5"
+  },
+  "nombre": "Henry",
+  "apellido": "Perez",
+  "altura": 167,
+  "peso": 66,
+  "edad": 27,
+  "documentoIdentidad": "ABC753808",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d6"
+  },
+  "nombre": "Gabriel",
+  "apellido": "Jenkins",
+  "altura": 159,
+  "peso": 64,
+  "edad": 25,
+  "documentoIdentidad": "DEF321809",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d7"
+  },
+  "nombre": "James",
+  "apellido": "Bennett",
+  "altura": 185,
+  "peso": 84,
+  "edad": 29,
+  "documentoIdentidad": "GHI846810",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655654c9158a4f866fd697d8"
+  },
+  "nombre": "Lucas",
+  "apellido": "Carter",
+  "altura": 177,
+  "peso": 79,
+  "edad": 28,
+  "documentoIdentidad": "JKL687811",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655673ad158a4f866fd697d9"
+  },
+  "nombre": "Connor",
+  "apellido": "Wilson",
+  "altura": 174,
+  "peso": 74,
+  "edad": 23,
+  "documentoIdentidad": "ZXC135791",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655673ad158a4f866fd697da"
+  },
+  "nombre": "Jack",
+  "apellido": "Murphy",
+  "altura": 168,
+  "peso": 69,
+  "edad": 28,
+  "documentoIdentidad": "VBN246802",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+},
+{
+  "_id": {
+    "$oid": "655673ad158a4f866fd697db"
+  },
+  "nombre": "Oliver",
+  "apellido": "Grant",
+  "altura": 183,
+  "peso": 80,
+  "edad": 30,
+  "documentoIdentidad": "LMN369803",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  }
+}]

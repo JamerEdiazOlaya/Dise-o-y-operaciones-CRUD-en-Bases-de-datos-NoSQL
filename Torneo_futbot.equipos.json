@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Nombre": "Las agilas negras",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Nombre": "Las trenzas del calvo",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Nombre": "Los magicos",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Nombre": "Los Rayos del Barrio",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Nombre": "Los leones de la calle",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Nombre": "Los tiger del asfalto",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Nombre": "Los lobos de la ciudad",
+  "NumeroIntegrantes": "11"
+},
+{
+  "_id": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Nombre": "Los Uptown Titans",
+  "NumeroIntegrantes": "11"
+}]

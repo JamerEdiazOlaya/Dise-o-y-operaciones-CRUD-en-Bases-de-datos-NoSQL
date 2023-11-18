@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b3"
+  },
+  "Equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "PartidosGanados": 2,
+  "PartidosPerdidos": 3,
+  "PartidosEmpatados": 2,
+  "PuntosTotales": 8
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b4"
+  },
+  "Equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "PartidosGanados": 6,
+  "PartidosPerdidos": 1,
+  "PartidosEmpatados": 0,
+  "PuntosTotales": 18
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b5"
+  },
+  "Equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "PartidosGanados": 3,
+  "PartidosPerdidos": 4,
+  "PartidosEmpatados": 0,
+  "PuntosTotales": 9
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b6"
+  },
+  "Equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "PartidosGanados": 3,
+  "PartidosPerdidos": 3,
+  "PartidosEmpatados": 1,
+  "PuntosTotales": 10
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b7"
+  },
+  "Equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "PartidosGanados": 3,
+  "PartidosPerdidos": 3,
+  "PartidosEmpatados": 1,
+  "PuntosTotales": 10
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b8"
+  },
+  "Equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "PartidosGanados": 2,
+  "PartidosPerdidos": 5,
+  "PartidosEmpatados": 0,
+  "PuntosTotales": 6
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4b9"
+  },
+  "Equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "PartidosGanados": 2,
+  "PartidosPerdidos": 2,
+  "PartidosEmpatados": 3,
+  "PuntosTotales": 9
+},
+{
+  "_id": {
+    "$oid": "6557d3e880fdd20c7db6c4ba"
+  },
+  "Equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "PartidosGanados": 3,
+  "PartidosPerdidos": 3,
+  "PartidosEmpatados": 1,
+  "PuntosTotales": 10
+}]

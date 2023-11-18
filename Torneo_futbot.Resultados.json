@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "65579879158a4f866fd6980f"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f3"
+  },
+  "Resultado": "Ganador: 65553891158a4f866fd69779 - Perdedor: 655537dc158a4f866fd69778",
+  "Equipo Ganador": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69810"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f4"
+  },
+  "Resultado": "Ganador: 655539ab158a4f866fd69778 - Perdedor: 65553902158a4f866fd6977a",
+  "Equipo Ganador": {
+    "$oid": "655539ab158a4f866fd69778"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977a"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69811"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f5"
+  },
+  "Resultado": "Empate",
+  "Equipo Ganador": null,
+  "Equipo Perdedor": null,
+  "Empate": true
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69812"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f6"
+  },
+  "Resultado": "Ganador: 65553891158a4f866fd69779 - Perdedor: 655539ab158a4f866fd69778",
+  "Equipo Ganador": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655539ab158a4f866fd69778"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69813"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f7"
+  },
+  "Resultado": "Ganador: 655537dc158a4f866fd69778 - Perdedor: 65553891158a4f866fd6977d",
+  "Equipo Ganador": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553891158a4f866fd6977d"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69814"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f8"
+  },
+  "Resultado": "Empate",
+  "Equipo Ganador": null,
+  "Equipo Perdedor": null,
+  "Empate": true
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69815"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697f9"
+  },
+  "Resultado": "Ganador: 65553902158a4f866fd6977f - Perdedor: 65553911158a4f866fd69778",
+  "Equipo Ganador": {
+    "$oid": "65553902158a4f866fd6977f"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553911158a4f866fd69778"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69816"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697fa"
+  },
+  "Resultado": "Ganador: 65553891158a4f866fd69779 - Perdedor: 655539ab158a4f866fd6977a",
+  "Equipo Ganador": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655539ab158a4f866fd6977a"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69817"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697fb"
+  },
+  "Resultado": "Ganador: 655538b4158a4f866fd6977b - Perdedor: 65553911158a4f866fd69779",
+  "Equipo Ganador": {
+    "$oid": "655538b4158a4f866fd6977b"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553911158a4f866fd69779"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69818"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697fc"
+  },
+  "Resultado": "Ganador: 65553925158a4f866fd69779 - Perdedor: 65553932158a4f866fd6977c",
+  "Equipo Ganador": {
+    "$oid": "65553925158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553932158a4f866fd6977c"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69819"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697fd"
+  },
+  "Resultado": "Ganador: 655539ab158a4f866fd69779 - Perdedor: 655537dc158a4f866fd6977d",
+  "Equipo Ganador": {
+    "$oid": "655539ab158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655537dc158a4f866fd6977d"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6981a"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697fe"
+  },
+  "Resultado": "Ganador: 65553925158a4f866fd69779 - Perdedor: 65553902158a4f866fd6977e",
+  "Equipo Ganador": {
+    "$oid": "65553925158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977e"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6981b"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd697ff"
+  },
+  "Resultado": "Ganador: 65553891158a4f866fd69779 - Perdedor: 655538b4158a4f866fd6977f",
+  "Equipo Ganador": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655538b4158a4f866fd6977f"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6981c"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69800"
+  },
+  "Resultado": "Ganador: 655539ab158a4f866fd6977b - Perdedor: 655538b4158a4f866fd6977a",
+  "Equipo Ganador": {
+    "$oid": "655539ab158a4f866fd6977b"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6981d"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69801"
+  },
+  "Resultado": "Ganador: 65553891158a4f866fd6977a - Perdedor: 65553925158a4f866fd6977d",
+  "Equipo Ganador": {
+    "$oid": "65553891158a4f866fd6977a"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6981e"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69802"
+  },
+  "Resultado": "Ganador: 65553911158a4f866fd6977a - Perdedor: 65553925158a4f866fd6977d",
+  "Equipo Ganador": {
+    "$oid": "65553911158a4f866fd6977a"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6981f"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69803"
+  },
+  "Resultado": "Ganador: 65553891158a4f866fd6977a - Perdedor: 655537dc158a4f866fd6977e",
+  "Equipo Ganador": {
+    "$oid": "65553891158a4f866fd6977a"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655537dc158a4f866fd6977e"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69820"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69804"
+  },
+  "Resultado": "Ganador: 65553911158a4f866fd6977f - Perdedor: 65553902158a4f866fd6977a",
+  "Equipo Ganador": {
+    "$oid": "65553911158a4f866fd6977f"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977a"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69821"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69805"
+  },
+  "Resultado": "Ganador: 655538b4158a4f866fd6977c - Perdedor: 65553902158a4f866fd6977b",
+  "Equipo Ganador": {
+    "$oid": "655538b4158a4f866fd6977c"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69822"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69806"
+  },
+  "Resultado": "Ganador: 65553932158a4f866fd6977b - Perdedor: 65553925158a4f866fd6977d",
+  "Equipo Ganador": {
+    "$oid": "65553932158a4f866fd6977b"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69823"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69807"
+  },
+  "Resultado": "Ganador: 65553911158a4f866fd6977e - Perdedor: 655537dc158a4f866fd6977b",
+  "Equipo Ganador": {
+    "$oid": "65553911158a4f866fd6977e"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655537dc158a4f866fd6977b"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69824"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69808"
+  },
+  "Resultado": "Ganador: 65553911158a4f866fd6977f - Perdedor: 655538b4158a4f866fd6977b",
+  "Equipo Ganador": {
+    "$oid": "65553911158a4f866fd6977f"
+  },
+  "Equipo Perdedor": {
+    "$oid": "655538b4158a4f866fd6977b"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69825"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd69809"
+  },
+  "Resultado": "Ganador: 655537dc158a4f866fd6977d - Perdedor: 65553902158a4f866fd6977c",
+  "Equipo Ganador": {
+    "$oid": "655537dc158a4f866fd6977d"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977c"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69826"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd6980a"
+  },
+  "Resultado": "Empate",
+  "Equipo Ganador": null,
+  "Equipo Perdedor": null,
+  "Empate": true
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69827"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd6980b"
+  },
+  "Resultado": "Ganador: 65553911158a4f866fd6977c - Perdedor: 65553925158a4f866fd6977f",
+  "Equipo Ganador": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553925158a4f866fd6977f"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69828"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd6980c"
+  },
+  "Resultado": "Ganador: 65553925158a4f866fd6977e - Perdedor: 65553902158a4f866fd6977d",
+  "Equipo Ganador": {
+    "$oid": "65553925158a4f866fd6977e"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977d"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd69829"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd6980d"
+  },
+  "Resultado": "Ganador: 65553925158a4f866fd6977d - Perdedor: 65553902158a4f866fd6977f",
+  "Equipo Ganador": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Equipo Perdedor": {
+    "$oid": "65553902158a4f866fd6977f"
+  },
+  "Empate": false
+},
+{
+  "_id": {
+    "$oid": "65579879158a4f866fd6982a"
+  },
+  "Encuentro": {
+    "$oid": "65568848158a4f866fd6980e"
+  },
+  "Resultado": "Empate",
+  "Equipo Ganador": null,
+  "Equipo Perdedor": null,
+  "Empate": true
+}]

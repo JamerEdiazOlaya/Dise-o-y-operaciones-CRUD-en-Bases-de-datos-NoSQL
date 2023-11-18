@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697e5"
+  },
+  "nombre": "Luis Eduardo",
+  "apellido": "Aparicio Paez",
+  "equipo": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "documentoIdentidad": "ALK1182993"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697e6"
+  },
+  "nombre": "Jack Oliver",
+  "apellido": "Murphy Grant",
+  "equipo": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "documentoIdentidad": "OJN10192223"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697e7"
+  },
+  "nombre": "Ethan MC",
+  "apellido": "Grant Holand",
+  "equipo": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "documentoIdentidad": "QSC92348599"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697e8"
+  },
+  "nombre": "Samuel James",
+  "apellido": "Winchester Dean",
+  "equipo": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "documentoIdentidad": "WDV1029332828"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697e9"
+  },
+  "nombre": "Lucas David",
+  "apellido": "Carter Sanchez",
+  "equipo": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "documentoIdentidad": "EFB019293883"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697ea"
+  },
+  "nombre": "Maicol David",
+  "apellido": "Maller Perez",
+  "equipo": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "documentoIdentidad": "PKH78786436"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697eb"
+  },
+  "nombre": "Eddy Oliver",
+  "apellido": "Murphy Queen",
+  "equipo": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "documentoIdentidad": "RGF909786577"
+},
+{
+  "_id": {
+    "$oid": "655673ae158a4f866fd697ec"
+  },
+  "nombre": "Bruno Jose",
+  "apellido": "Waying Diaz",
+  "equipo": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "documentoIdentidad": "PQS92340091"
+}]

@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f3"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ed"
+  },
+  "NombreEncuentro": "Las agilas negras vs Las trenzas del calvo"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f4"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ee"
+  },
+  "NombreEncuentro": "Las agilas negras vs Los magicos"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f5"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ef"
+  },
+  "NombreEncuentro": "Las agilas negras vs Los Rayos del Barrio"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f6"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f0"
+  },
+  "NombreEncuentro": "Las agilas negras vs Los leones de la calle"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f7"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f1"
+  },
+  "NombreEncuentro": "Las agilas negras vs Los tiger del asfalto"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f8"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f2"
+  },
+  "NombreEncuentro": "Las agilas negras vs Los lobos de la ciudad"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697f9"
+  },
+  "Equipo A": {
+    "$oid": "655537dc158a4f866fd69778"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ed"
+  },
+  "NombreEncuentro": "Las agilas negras vs Los Uptown Titans"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697fa"
+  },
+  "Equipo A": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo B": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ee"
+  },
+  "NombreEncuentro": "Las trenzas del calvo vs Los magicos"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697fb"
+  },
+  "Equipo A": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo B": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ef"
+  },
+  "NombreEncuentro": "Las trenzas del calvo vs Los Rayos del Barrio"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697fc"
+  },
+  "Equipo A": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo B": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f0"
+  },
+  "NombreEncuentro": "Las trenzas del calvo vs Los leones de la calle"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697fd"
+  },
+  "Equipo A": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo B": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f1"
+  },
+  "NombreEncuentro": "Las trenzas del calvo vs Los tiger del asfalto"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697fe"
+  },
+  "Equipo A": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo B": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f2"
+  },
+  "NombreEncuentro": "Las trenzas del calvo vs Los lobos de la ciudad"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd697ff"
+  },
+  "Equipo A": {
+    "$oid": "65553891158a4f866fd69779"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ed"
+  },
+  "NombreEncuentro": "Las trenzas del calvo vs Los Uptown Titans"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69800"
+  },
+  "Equipo A": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Equipo B": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ee"
+  },
+  "NombreEncuentro": "Los magicos vs Los Rayos del Barrio"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69801"
+  },
+  "Equipo A": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Equipo B": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ef"
+  },
+  "NombreEncuentro": "Los magicos vs Los leones de la calle"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69802"
+  },
+  "Equipo A": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Equipo B": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f0"
+  },
+  "NombreEncuentro": "Los magicos vs Los tiger del asfalto"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69803"
+  },
+  "Equipo A": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Equipo B": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f1"
+  },
+  "NombreEncuentro": "Los magicos vs Los lobos de la ciudad"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69804"
+  },
+  "Equipo A": {
+    "$oid": "655538b4158a4f866fd6977a"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f2"
+  },
+  "NombreEncuentro": "Los magicos vs Los Uptown Titans"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69805"
+  },
+  "Equipo A": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Equipo B": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ed"
+  },
+  "NombreEncuentro": "Los Rayos del Barrio vs Los leones de la calle"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69806"
+  },
+  "Equipo A": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Equipo B": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ee"
+  },
+  "NombreEncuentro": "Los Rayos del Barrio vs Los tiger del asfalto"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69807"
+  },
+  "Equipo A": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Equipo B": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ef"
+  },
+  "NombreEncuentro": "Los Rayos del Barrio vs Los lobos de la ciudad"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69808"
+  },
+  "Equipo A": {
+    "$oid": "65553902158a4f866fd6977b"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f0"
+  },
+  "NombreEncuentro": "Los Rayos del Barrio vs Los Uptown Titans"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd69809"
+  },
+  "Equipo A": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Equipo B": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f1"
+  },
+  "NombreEncuentro": "Los leones de la calle vs Los tiger del asfalto"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd6980a"
+  },
+  "Equipo A": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Equipo B": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f2"
+  },
+  "NombreEncuentro": "Los leones de la calle vs Los lobos de la ciudad"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd6980b"
+  },
+  "Equipo A": {
+    "$oid": "65553911158a4f866fd6977c"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ed"
+  },
+  "NombreEncuentro": "Los leones de la calle vs Los Uptown Titans"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd6980c"
+  },
+  "Equipo A": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Equipo B": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ee"
+  },
+  "NombreEncuentro": "Los tiger del asfalto vs Los lobos de la ciudad"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd6980d"
+  },
+  "Equipo A": {
+    "$oid": "65553925158a4f866fd6977d"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "655678d2158a4f866fd697ef"
+  },
+  "NombreEncuentro": "Los tiger del asfalto vs Los Uptown Titans"
+},
+{
+  "_id": {
+    "$oid": "65568848158a4f866fd6980e"
+  },
+  "Equipo A": {
+    "$oid": "65553932158a4f866fd6977e"
+  },
+  "Equipo B": {
+    "$oid": "655539ab158a4f866fd6977f"
+  },
+  "Arbitro": {
+    "$oid": "65567bf4158a4f866fd697f0"
+  },
+  "NombreEncuentro": "Los lobos de la ciudad vs Los Uptown Titans"
+}]
